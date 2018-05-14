@@ -1,0 +1,9 @@
+{
+  "name": "chatrooms",
+  "version": "1.0",
+  "description": "This is a demo of chatroom",
+  "dependencies": {
+    "mime": "^2.3.1",
+    "socket.io": "^2.1.0"
+  }
+}
